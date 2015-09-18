@@ -18,7 +18,6 @@ import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombi
 /**
  * pinyin4j工具类[pinyin4j并不能自动联系上下文判断多音字的正确拼音，
  * 如：重庆，不能返回chongqing,只能返回zhongqing和chongqing，让用户自己人工去选择正确拼音]
- * 
  * @author Lanxiaowei
  * 
  */
